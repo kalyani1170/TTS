@@ -1,0 +1,174 @@
+[
+    {
+        "Term": "Ad hoc network",
+        "Definition": "A type of LAN that connects wireless devices without a router.",
+        "ExampleSentence": "An ad hoc network allows your phone to connect directly to your friend's laptop.",
+        "PhoneticRepresentation": "/æd hɑk ˈnɛt.wɜrk/"
+    },
+    {
+        "Term": "Affiliate marketing",
+        "Definition": "A strategy where companies incentivize affiliates to sell their products.",
+        "ExampleSentence": "Through affiliate marketing, influencers earn commissions by promoting products.",
+        "PhoneticRepresentation": "/əˈfɪl.i.eɪt ˈmɑrkɪtɪŋ/"
+    },
+    {
+        "Term": "Assistive technology",
+        "Definition": "Software or hardware designed to help individuals with disabilities.",
+        "ExampleSentence": "Assistive technology like screen readers can help visually impaired users.",
+        "PhoneticRepresentation": "/əˈsɪs.tɪv tɛkˈnɑl.ə.dʒi/"
+    },
+    {
+        "Term": "Authentication",
+        "Definition": "The process of verifying a person's identity before granting access.",
+        "ExampleSentence": "Authentication is essential for protecting sensitive information on networks.",
+        "PhoneticRepresentation": "/ɔˌθɛntɪkəˈkeɪʃən/"
+    },
+    {
+        "Term": "Back-end",
+        "Definition": "Processes in software that are not visible to the user.",
+        "ExampleSentence": "The back-end of the application handles data storage and processing.",
+        "PhoneticRepresentation": "/ˈbækˌɛnd/"
+    },
+    {
+        "Term": "Computer-aided design (CAD)",
+        "Definition": "Software used to create, modify, and optimize designs.",
+        "ExampleSentence": "Architects use CAD to visualize buildings before construction.",
+        "PhoneticRepresentation": "/kəmˈpjuː.tər ˈeɪ.dɪd dɪˈzaɪn/"
+    },
+    {
+        "Term": "Cloud computing",
+        "Definition": "Delivery of services over the internet, allowing remote data storage and access.",
+        "ExampleSentence": "Cloud computing enables businesses to store data without physical servers.",
+        "PhoneticRepresentation": "/klaʊd kəmˈpjuː.tɪŋ/"
+    },
+    {
+        "Term": "Cookie",
+        "Definition": "Data sent by a web server to a browser, used for tracking user preferences.",
+        "ExampleSentence": "Cookies help personalize your online experience by remembering your settings.",
+        "PhoneticRepresentation": "/ˈkʊki/"
+    },
+    {
+        "Term": "Central processing unit (CPU)",
+        "Definition": "The main processor of a computer, performing calculations and instructions.",
+        "ExampleSentence": "The CPU executes commands and processes data for applications.",
+        "PhoneticRepresentation": "/ˈsɛn.trəl ˈprəʊ.sɛs.ɪŋ juː.nɪt/"
+    },
+    {
+        "Term": "Digital file sharing (DFS)",
+        "Definition": "A program that enables access and sharing of files across multiple computers.",
+        "ExampleSentence": "DFS makes it easy to collaborate on projects by sharing files seamlessly.",
+        "PhoneticRepresentation": "/ˈdɪdʒ.ɪ.təl faɪl ˈʃɛr.ɪŋ/"
+    },
+    {
+        "Term": "Emulation",
+        "Definition": "The imitation of one system by another, often using software.",
+        "ExampleSentence": "Emulation allows users to run software designed for different operating systems.",
+        "PhoneticRepresentation": "/ˌɛm.jʊˈleɪ.ʃən/"
+    },
+    {
+        "Term": "Encryption",
+        "Definition": "The process of converting data into a secure format.",
+        "ExampleSentence": "Encryption protects sensitive information by converting it to ciphertext.",
+        "PhoneticRepresentation": "/ɪnˈkrɪp.ʃən/"
+    },
+    {
+        "Term": "End user",
+        "Definition": "The intended user of a software or hardware product.",
+        "ExampleSentence": "Designers must consider the end user when developing new software features.",
+        "PhoneticRepresentation": "/ɛnd ˈjuː.zər/"
+    },
+    {
+        "Term": "Ethernet",
+        "Definition": "A common method for connecting devices in a wired network.",
+        "ExampleSentence": "Ethernet connections provide faster and more reliable internet access.",
+        "PhoneticRepresentation": "/ˈiː.θər.nɛt/"
+    },
+    {
+        "Term": "Firewall",
+        "Definition": "Software that protects a network from unauthorized access.",
+        "ExampleSentence": "A firewall helps secure a network by monitoring incoming and outgoing traffic.",
+        "PhoneticRepresentation": "/ˈfaɪər.wɔːl/"
+    },
+    {
+        "Term": "File transfer protocol (FTP)",
+        "Definition": "A method for transferring files over the internet.",
+        "ExampleSentence": "We used FTP to upload files to the server for our website.",
+        "PhoneticRepresentation": "/faɪl ˈtræns.fər ˈprəʊ.tə.kɔl/"
+    },
+    {
+        "Term": "ISP",
+        "Definition": "An acronym for Internet Service Provider, a company that provides internet access.",
+        "ExampleSentence": "I switched my ISP to get a faster internet connection.",
+        "PhoneticRepresentation": "/ˌaɪ ɛs ˈpiː/"
+    },
+    {
+        "Term": "Intranet",
+        "Definition": "A private network within an organization for secure communication.",
+        "ExampleSentence": "The intranet facilitates easy access to company resources and information.",
+        "PhoneticRepresentation": "/ˈɪn.trə.net/"
+    },
+    {
+        "Term": "Malware",
+        "Definition": "Malicious software designed to harm systems or steal information.",
+        "ExampleSentence": "Malware can disrupt operations and compromise data security.",
+        "PhoneticRepresentation": "/ˈmæl.wɛər/"
+    },
+    {
+        "Term": "Modem",
+        "Definition": "A device that converts signals for internet access.",
+        "ExampleSentence": "The modem connects your computer to the internet through a telephone line.",
+        "PhoneticRepresentation": "/ˈmoʊ.dɛm/"
+    },
+    {
+        "Term": "Search engine optimization (SEO)",
+        "Definition": "Techniques to improve website visibility in search results.",
+        "ExampleSentence": "SEO strategies help businesses rank higher in search engine results.",
+        "PhoneticRepresentation": "/sɜːrch ˈɛn.dʒɪn ˌɒptɪmaɪˈzeɪʃən/"
+    },
+    {
+        "Term": "RAM",
+        "Definition": "Random Access Memory, the computer's short-term memory for running applications.",
+        "ExampleSentence": "More RAM allows your computer to run multiple programs simultaneously.",
+        "PhoneticRepresentation": "/ræm/"
+    },
+    {
+        "Term": "Application",
+        "Definition": "A software program designed for specific tasks.",
+        "ExampleSentence": "This application helps users manage their daily schedules effectively.",
+        "PhoneticRepresentation": "/ˌæplɪˈkeɪʃən/"
+    },
+    {
+        "Term": "Bandwidth",
+        "Definition": "The amount of data that can be transmitted over a connection in a given time.",
+        "ExampleSentence": "Higher bandwidth results in faster download and upload speeds.",
+        "PhoneticRepresentation": "/ˈbænd.wɪdθ/"
+    },
+    {
+        "Term": "Big data",
+        "Definition": "Large and complex data sets that traditional data processing applications cannot handle.",
+        "ExampleSentence": "Big data analytics can reveal trends and patterns in consumer behavior.",
+        "PhoneticRepresentation": "/bɪg ˈdeɪ.tə/"
+    },
+    {
+        "Term": "Binary",
+        "Definition": "A number system that uses only two symbols, typically 0 and 1.",
+        "ExampleSentence": "Computers use binary to process instructions and data.",
+        "PhoneticRepresentation": "/ˈbaɪ.nə.ri/"
+    },
+    {
+        "Term": "Biometrics",
+        "Definition": "Techniques for identifying individuals based on their physical characteristics.",
+        "ExampleSentence": "Biometrics provide a secure way to authenticate users through fingerprints.",
+        "PhoneticRepresentation": "/ˌbaɪ.oʊˈmɛ.trɪks/"
+    },
+    {
+        "Term": "Bit",
+        "Definition": "The smallest unit of data in a computer, representing a single binary value.",
+        "ExampleSentence": "Each bit can be either a 0 or a 1.",
+        "PhoneticRepresentation": "/bɪt/"
+    },
+    {
+        "Term": "Boolean operator",
+        "Definition": "A keyword that combines or excludes"
+    }
+]

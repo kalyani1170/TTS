@@ -1,0 +1,121 @@
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\vapsg\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\vapsg\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:root:Generating audio for: Term: Ad hoc network. Definition: A type of LAN that connects wireless devices without a router.. Example: An ad hoc network allows your phone to connect directly to your friend's laptop.. Phonetic representation: /æd hɑk ˈnɛt.wɜrk/.
+INFO:root:Audio saved to Ad_hoc_network.wav
+INFO:root:Generating audio for: Term: Affiliate marketing. Definition: A strategy where companies incentivize affiliates to sell their products.. Example: Through affiliate marketing, influencers earn commissions by promoting products.. Phonetic representation: /əˈfɪl.i.eɪt ˈmɑrkɪtɪŋ/.
+INFO:root:Audio saved to Affiliate_marketing.wav
+INFO:root:Generating audio for: Term: Assistive technology. Definition: Software or hardware designed to help individuals with disabilities.. Example: Assistive technology like screen readers can help visually impaired users.. Phonetic representation: /əˈsɪs.tɪv tɛkˈnɑl.ə.dʒi/.
+INFO:root:Audio saved to Assistive_technology.wav
+INFO:root:Generating audio for: Term: Authentication. Definition: The process of verifying a person's identity before granting access.. Example: Authentication is essential for protecting sensitive information on networks.. Phonetic representation: /ɔˌθɛntɪkəˈkeɪʃən/.
+INFO:root:Audio saved to Authentication.wav
+INFO:root:Generating audio for: Term: Back-end. Definition: Processes in software that are not visible to the user.. Example: The back-end of the application handles data storage and processing.. Phonetic representation: /ˈbækˌɛnd/.
+INFO:root:Audio saved to Back-end.wav
+INFO:root:Generating audio for: Term: Computer-aided design (CAD). Definition: Software used to create, modify, and optimize designs.. Example: Architects use CAD to visualize buildings before construction.. Phonetic representation: /kəmˈpjuː.tər ˈeɪ.dɪd dɪˈzaɪn/.
+INFO:root:Audio saved to Computer-aided_design_(CAD).wav
+INFO:root:Generating audio for: Term: Cloud computing. Definition: Delivery of services over the internet, allowing remote data storage and access.. Example: Cloud computing enables businesses to store data without physical servers.. Phonetic representation: /klaʊd kəmˈpjuː.tɪŋ/.
+INFO:root:Audio saved to Cloud_computing.wav
+INFO:root:Generating audio for: Term: Cookie. Definition: Data sent by a web server to a browser, used for tracking user preferences.. Example: Cookies help personalize your online experience by remembering your settings.. Phonetic representation: /ˈkʊki/.
+INFO:root:Audio saved to Cookie.wav
+INFO:root:Generating audio for: Term: Central processing unit (CPU). Definition: The main processor of a computer, performing calculations and instructions.. Example: The CPU executes commands and processes data for applications.. Phonetic representation: /ˈsɛn.trəl ˈprəʊ.sɛs.ɪŋ juː.nɪt/.
+INFO:root:Audio saved to Central_processing_unit_(CPU).wav
+INFO:root:Generating audio for: Term: Digital file sharing (DFS). Definition: A program that enables access and sharing of files across multiple computers.. Example: DFS makes it easy to collaborate on projects by sharing files seamlessly.. Phonetic representation: /ˈdɪdʒ.ɪ.təl faɪl ˈʃɛr.ɪŋ/.
+INFO:root:Audio saved to Digital_file_sharing_(DFS).wav
+INFO:root:Generating audio for: Term: Emulation. Definition: The imitation of one system by another, often using software.. Example: Emulation allows users to run software designed for different operating systems.. Phonetic representation: /ˌɛm.jʊˈleɪ.ʃən/.
+INFO:root:Audio saved to Emulation.wav
+INFO:root:Generating audio for: Term: Encryption. Definition: The process of converting data into a secure format.. Example: Encryption protects sensitive information by converting it to ciphertext.. Phonetic representation: /ɪnˈkrɪp.ʃən/.
+INFO:root:Audio saved to Encryption.wav
+INFO:root:Generating audio for: Term: End user. Definition: The intended user of a software or hardware product.. Example: Designers must consider the end user when developing new software features.. Phonetic representation: /ɛnd ˈjuː.zər/.
+INFO:root:Audio saved to End_user.wav
+INFO:root:Generating audio for: Term: Ethernet. Definition: A common method for connecting devices in a wired network.. Example: Ethernet connections provide faster and more reliable internet access.. Phonetic representation: /ˈiː.θər.nɛt/.
+INFO:root:Audio saved to Ethernet.wav
+INFO:root:Generating audio for: Term: Firewall. Definition: Software that protects a network from unauthorized access.. Example: A firewall helps secure a network by monitoring incoming and outgoing traffic.. Phonetic representation: /ˈfaɪər.wɔːl/.
+INFO:root:Audio saved to Firewall.wav
+INFO:root:Generating audio for: Term: File transfer protocol (FTP). Definition: A method for transferring files over the internet.. Example: We used FTP to upload files to the server for our website.. Phonetic representation: /faɪl ˈtræns.fər ˈprəʊ.tə.kɔl/.
+INFO:root:Audio saved to File_transfer_protocol_(FTP).wav
+INFO:root:Generating audio for: Term: ISP. Definition: An acronym for Internet Service Provider, a company that provides internet access.. Example: I switched my ISP to get a faster internet connection.. Phonetic representation: /ˌaɪ ɛs ˈpiː/.
+INFO:root:Audio saved to ISP.wav
+INFO:root:Generating audio for: Term: Intranet. Definition: A private network within an organization for secure communication.. Example: The intranet facilitates easy access to company resources and information.. Phonetic representation: /ˈɪn.trə.net/.
+INFO:root:Audio saved to Intranet.wav
+INFO:root:Generating audio for: Term: Malware. Definition: Malicious software designed to harm systems or steal information.. Example: Malware can disrupt operations and compromise data security.. Phonetic representation: /ˈmæl.wɛər/.
+INFO:root:Audio saved to Malware.wav
+INFO:root:Generating audio for: Term: Modem. Definition: A device that converts signals for internet access.. Example: The modem connects your computer to the internet through a telephone line.. Phonetic representation: /ˈmoʊ.dɛm/.
+INFO:root:Audio saved to Modem.wav
+INFO:root:Generating audio for: Term: Search engine optimization (SEO). Definition: Techniques to improve website visibility in search results.. Example: SEO strategies help businesses rank higher in search engine results.. Phonetic representation: /sɜːrch ˈɛn.dʒɪn ˌɒptɪmaɪˈzeɪʃən/.
+INFO:root:Audio saved to Search_engine_optimization_(SEO).wav
+INFO:root:Generating audio for: Term: RAM. Definition: Random Access Memory, the computer's short-term memory for running applications.. Example: More RAM allows your computer to run multiple programs simultaneously.. Phonetic representation: /ræm/.
+INFO:root:Audio saved to RAM.wav
+INFO:root:Generating audio for: Term: Application. Definition: A software program designed for specific tasks.. Example: This application helps users manage their daily schedules effectively.. Phonetic representation: /ˌæplɪˈkeɪʃən/.
+INFO:root:Audio saved to Application.wav
+INFO:root:Generating audio for: Term: Bandwidth. Definition: The amount of data that can be transmitted over a connection in a given time.. Example: Higher bandwidth results in faster download and upload speeds.. Phonetic representation: /ˈbænd.wɪdθ/.
+INFO:root:Audio saved to Bandwidth.wav
+INFO:root:Generating audio for: Term: Big data. Definition: Large and complex data sets that traditional data processing applications cannot handle.. Example: Big data analytics can reveal trends and patterns in consumer behavior.. Phonetic representation: /bɪg ˈdeɪ.tə/.
+INFO:root:Audio saved to Big_data.wav
+INFO:root:Generating audio for: Term: Binary. Definition: A number system that uses only two symbols, typically 0 and 1.. Example: Computers use binary to process instructions and data.. Phonetic representation: /ˈbaɪ.nə.ri/.
+INFO:root:Audio saved to Binary.wav
+INFO:root:Generating audio for: Term: Biometrics. Definition: Techniques for identifying individuals based on their physical characteristics.. Example: Biometrics provide a secure way to authenticate users through fingerprints.. Phonetic representation: /ˌbaɪ.oʊˈmɛ.trɪks/.
+INFO:root:Audio saved to Biometrics.wav
+INFO:root:Generating audio for: Term: Bit. Definition: The smallest unit of data in a computer, representing a single binary value.. Example: Each bit can be either a 0 or a 1.. Phonetic representation: /bɪt/.
+INFO:root:Audio saved to Bit.wav
+ERROR:root:An error occurred: 'ExampleSentence'
+INFO:comtypes.client._code_cache:Imported existing <module 'comtypes.gen' from 'C:\\Users\\vapsg\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+INFO:comtypes.client._code_cache:Using writeable comtypes cache directory: 'C:\Users\vapsg\AppData\Local\Programs\Python\Python310\lib\site-packages\comtypes\gen'
+INFO:comtypes.client._generate:Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+INFO:comtypes.client._generate:# Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+INFO:comtypes.client._generate:# Generating comtypes.gen.SpeechLib
+INFO:root:Generating audio for: Term: Ad hoc network. Definition: A type of LAN that connects wireless devices without a router.. Example: An ad hoc network allows your phone to connect directly to your friend's laptop.. Phonetic representation: /æd hɑk ˈnɛt.wɜrk/.
+INFO:root:Audio saved to Ad_hoc_network.wav
+INFO:root:Generating audio for: Term: Affiliate marketing. Definition: A strategy where companies incentivize affiliates to sell their products.. Example: Through affiliate marketing, influencers earn commissions by promoting products.. Phonetic representation: /əˈfɪl.i.eɪt ˈmɑrkɪtɪŋ/.
+INFO:root:Audio saved to Affiliate_marketing.wav
+INFO:root:Generating audio for: Term: Assistive technology. Definition: Software or hardware designed to help individuals with disabilities.. Example: Assistive technology like screen readers can help visually impaired users.. Phonetic representation: /əˈsɪs.tɪv tɛkˈnɑl.ə.dʒi/.
+INFO:root:Audio saved to Assistive_technology.wav
+INFO:root:Generating audio for: Term: Authentication. Definition: The process of verifying a person's identity before granting access.. Example: Authentication is essential for protecting sensitive information on networks.. Phonetic representation: /ɔˌθɛntɪkəˈkeɪʃən/.
+INFO:root:Audio saved to Authentication.wav
+INFO:root:Generating audio for: Term: Back-end. Definition: Processes in software that are not visible to the user.. Example: The back-end of the application handles data storage and processing.. Phonetic representation: /ˈbækˌɛnd/.
+INFO:root:Audio saved to Back-end.wav
+INFO:root:Generating audio for: Term: Computer-aided design (CAD). Definition: Software used to create, modify, and optimize designs.. Example: Architects use CAD to visualize buildings before construction.. Phonetic representation: /kəmˈpjuː.tər ˈeɪ.dɪd dɪˈzaɪn/.
+INFO:root:Audio saved to Computer-aided_design_(CAD).wav
+INFO:root:Generating audio for: Term: Cloud computing. Definition: Delivery of services over the internet, allowing remote data storage and access.. Example: Cloud computing enables businesses to store data without physical servers.. Phonetic representation: /klaʊd kəmˈpjuː.tɪŋ/.
+INFO:root:Audio saved to Cloud_computing.wav
+INFO:root:Generating audio for: Term: Cookie. Definition: Data sent by a web server to a browser, used for tracking user preferences.. Example: Cookies help personalize your online experience by remembering your settings.. Phonetic representation: /ˈkʊki/.
+INFO:root:Audio saved to Cookie.wav
+INFO:root:Generating audio for: Term: Central processing unit (CPU). Definition: The main processor of a computer, performing calculations and instructions.. Example: The CPU executes commands and processes data for applications.. Phonetic representation: /ˈsɛn.trəl ˈprəʊ.sɛs.ɪŋ juː.nɪt/.
+INFO:root:Audio saved to Central_processing_unit_(CPU).wav
+INFO:root:Generating audio for: Term: Digital file sharing (DFS). Definition: A program that enables access and sharing of files across multiple computers.. Example: DFS makes it easy to collaborate on projects by sharing files seamlessly.. Phonetic representation: /ˈdɪdʒ.ɪ.təl faɪl ˈʃɛr.ɪŋ/.
+INFO:root:Audio saved to Digital_file_sharing_(DFS).wav
+INFO:root:Generating audio for: Term: Emulation. Definition: The imitation of one system by another, often using software.. Example: Emulation allows users to run software designed for different operating systems.. Phonetic representation: /ˌɛm.jʊˈleɪ.ʃən/.
+INFO:root:Audio saved to Emulation.wav
+INFO:root:Generating audio for: Term: Encryption. Definition: The process of converting data into a secure format.. Example: Encryption protects sensitive information by converting it to ciphertext.. Phonetic representation: /ɪnˈkrɪp.ʃən/.
+INFO:root:Audio saved to Encryption.wav
+INFO:root:Generating audio for: Term: End user. Definition: The intended user of a software or hardware product.. Example: Designers must consider the end user when developing new software features.. Phonetic representation: /ɛnd ˈjuː.zər/.
+INFO:root:Audio saved to End_user.wav
+INFO:root:Generating audio for: Term: Ethernet. Definition: A common method for connecting devices in a wired network.. Example: Ethernet connections provide faster and more reliable internet access.. Phonetic representation: /ˈiː.θər.nɛt/.
+INFO:root:Audio saved to Ethernet.wav
+INFO:root:Generating audio for: Term: Firewall. Definition: Software that protects a network from unauthorized access.. Example: A firewall helps secure a network by monitoring incoming and outgoing traffic.. Phonetic representation: /ˈfaɪər.wɔːl/.
+INFO:root:Audio saved to Firewall.wav
+INFO:root:Generating audio for: Term: File transfer protocol (FTP). Definition: A method for transferring files over the internet.. Example: We used FTP to upload files to the server for our website.. Phonetic representation: /faɪl ˈtræns.fər ˈprəʊ.tə.kɔl/.
+INFO:root:Audio saved to File_transfer_protocol_(FTP).wav
+INFO:root:Generating audio for: Term: ISP. Definition: An acronym for Internet Service Provider, a company that provides internet access.. Example: I switched my ISP to get a faster internet connection.. Phonetic representation: /ˌaɪ ɛs ˈpiː/.
+INFO:root:Audio saved to ISP.wav
+INFO:root:Generating audio for: Term: Intranet. Definition: A private network within an organization for secure communication.. Example: The intranet facilitates easy access to company resources and information.. Phonetic representation: /ˈɪn.trə.net/.
+INFO:root:Audio saved to Intranet.wav
+INFO:root:Generating audio for: Term: Malware. Definition: Malicious software designed to harm systems or steal information.. Example: Malware can disrupt operations and compromise data security.. Phonetic representation: /ˈmæl.wɛər/.
+INFO:root:Audio saved to Malware.wav
+INFO:root:Generating audio for: Term: Modem. Definition: A device that converts signals for internet access.. Example: The modem connects your computer to the internet through a telephone line.. Phonetic representation: /ˈmoʊ.dɛm/.
+INFO:root:Audio saved to Modem.wav
+INFO:root:Generating audio for: Term: Search engine optimization (SEO). Definition: Techniques to improve website visibility in search results.. Example: SEO strategies help businesses rank higher in search engine results.. Phonetic representation: /sɜːrch ˈɛn.dʒɪn ˌɒptɪmaɪˈzeɪʃən/.
+INFO:root:Audio saved to Search_engine_optimization_(SEO).wav
+INFO:root:Generating audio for: Term: RAM. Definition: Random Access Memory, the computer's short-term memory for running applications.. Example: More RAM allows your computer to run multiple programs simultaneously.. Phonetic representation: /ræm/.
+INFO:root:Audio saved to RAM.wav
+INFO:root:Generating audio for: Term: Application. Definition: A software program designed for specific tasks.. Example: This application helps users manage their daily schedules effectively.. Phonetic representation: /ˌæplɪˈkeɪʃən/.
+INFO:root:Audio saved to Application.wav
+INFO:root:Generating audio for: Term: Bandwidth. Definition: The amount of data that can be transmitted over a connection in a given time.. Example: Higher bandwidth results in faster download and upload speeds.. Phonetic representation: /ˈbænd.wɪdθ/.
+INFO:root:Audio saved to Bandwidth.wav
+INFO:root:Generating audio for: Term: Big data. Definition: Large and complex data sets that traditional data processing applications cannot handle.. Example: Big data analytics can reveal trends and patterns in consumer behavior.. Phonetic representation: /bɪg ˈdeɪ.tə/.
+INFO:root:Audio saved to Big_data.wav
+INFO:root:Generating audio for: Term: Binary. Definition: A number system that uses only two symbols, typically 0 and 1.. Example: Computers use binary to process instructions and data.. Phonetic representation: /ˈbaɪ.nə.ri/.
+INFO:root:Audio saved to Binary.wav
+INFO:root:Generating audio for: Term: Biometrics. Definition: Techniques for identifying individuals based on their physical characteristics.. Example: Biometrics provide a secure way to authenticate users through fingerprints.. Phonetic representation: /ˌbaɪ.oʊˈmɛ.trɪks/.
+INFO:root:Audio saved to Biometrics.wav
+INFO:root:Generating audio for: Term: Bit. Definition: The smallest unit of data in a computer, representing a single binary value.. Example: Each bit can be either a 0 or a 1.. Phonetic representation: /bɪt/.
+INFO:root:Audio saved to Bit.wav
+ERROR:root:An error occurred: 'ExampleSentence'
